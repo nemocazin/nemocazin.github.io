@@ -19,6 +19,17 @@
     align-items: center;
 }
 
+.timeline-image-container {
+    flex: 0 0 auto; /* Ne prend pas plus d'espace que nécessaire */
+    margin-left: 20px; /* Espace entre le contenu et l'image */
+    display: flex;
+    align-items: center; /* Centrer verticalement l'image */
+}
+
+.timeline-image {
+    max-width: 100px; /* Ajustez selon vos besoins */
+    height: auto; /* Conserver les proportions originales */
+}
 .date {
     flex: 0 1 150px; 
     font-size: 20px;
