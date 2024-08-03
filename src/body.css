@@ -1,6 +1,5 @@
 body, html {
     margin: 0;
-    padding: 0;
     width: 100%;
     height: 100%;
     font-family: 'Avenir', sans-serif;
@@ -8,9 +7,9 @@ body, html {
 
 h3 {
     color: #333;
-    font-size: 32px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    font-size: 42px;
     font-weight: bold;
-    text-align: left; 
-    text-decoration: underline;
-    margin-left: 20px; 
+    text-align: center; 
 }
