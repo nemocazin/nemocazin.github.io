@@ -20,15 +20,15 @@
 }
 
 .timeline-image-container {
-    flex: 0 0 auto; /* Ne prend pas plus d'espace que nécessaire */
-    margin-left: 20px; /* Espace entre le contenu et l'image */
+    flex: 0 0 auto; 
+    margin-left: 20px; 
     display: flex;
-    align-items: center; /* Centrer verticalement l'image */
+    align-items: center;
 }
 
 .timeline-image {
-    max-width: 100px; /* Ajustez selon vos besoins */
-    height: auto; /* Conserver les proportions originales */
+    max-width: 100px;
+    height: auto;
 }
 .date {
     flex: 0 1 150px; 

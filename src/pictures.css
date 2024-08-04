@@ -4,8 +4,8 @@
 }
 
 .round-image {
-    width: 300px; /* Vous pouvez ajuster la taille */
-    height: 300px; /* Vous pouvez ajuster la taille */
+    width: 300px;
+    height: 300px; 
     border-radius: 50%;
     object-fit: cover;
 }
